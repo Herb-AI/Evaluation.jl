@@ -1,3 +1,5 @@
+This package is deprecated and thus substituted by `HerbInterpret.jl` which holds the same functionality.
+
 # HerbEvaluation.jl
 
 This package provides functionality for evaluating (candidate) programs in the Herb Program Synthesis framework. `HerbEvaluation` can handle arbitrary Julia expressions, but also arbitrary other interpretors for which an evaluation function is given.
